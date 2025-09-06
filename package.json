@@ -8,8 +8,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "npm run dev",
+    "build": "npm run build",
     "preview": "vite preview"
   },
   "devDependencies": {
